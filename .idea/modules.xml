@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/AnimalFilhoCachorro/AnimalFilhoCachorro.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/AnimalFilhoCachorro/AnimalFilhoCachorro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/CalculadoraSoma/CalculadoraSoma.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/CalculadoraSoma/CalculadoraSoma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/ClasseAbstrataFormaGeometrica/ClasseAbstrataFormaGeometrica.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/ClasseAbstrataFormaGeometrica/ClasseAbstrataFormaGeometrica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/ConstrutorEMetodosPokemon/ConstrutorEMetodosPokemon.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/ConstrutorEMetodosPokemon/ConstrutorEMetodosPokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/CookieConstrutorSimples/CookieConstrutorSimples.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/CookieConstrutorSimples/CookieConstrutorSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/CookiesConstrutorComParametro/CookiesConstrutorComParametro.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/CookiesConstrutorComParametro/CookiesConstrutorComParametro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Programacao_Orientada_Objetos_Java-Udemy.iml" filepath="$PROJECT_DIR$/.idea/Curso-Programacao_Orientada_Objetos_Java-Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/EncapsulamentoCamisetaTecidoETamanho/EncapsulamentoCamisetaTecidoETamanho.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/EncapsulamentoCamisetaTecidoETamanho/EncapsulamentoCamisetaTecidoETamanho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/ExemploCookieSimplificado/ExemploCookieSimplificado.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/ExemploCookieSimplificado/ExemploCookieSimplificado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/ExemploCookies/ExemploCookies.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/ExemploCookies/ExemploCookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/ExemploLutador/ExemploLutador.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/ExemploLutador/ExemploLutador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/ExemploTelefoneGetterESetter/ExemploTelefoneGetterESetter.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/ExemploTelefoneGetterESetter/ExemploTelefoneGetterESetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/FuncionarioConstrutorComParametro/FuncionarioConstrutorComParametro.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/FuncionarioConstrutorComParametro/FuncionarioConstrutorComParametro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/HerançaEUMLArmaEEspada/HerançaEUMLArmaEEspada.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/HerançaEUMLArmaEEspada/HerançaEUMLArmaEEspada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/HerencaUsuarioPersonagem/HerencaUsuarioPersonagem.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/HerencaUsuarioPersonagem/HerencaUsuarioPersonagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/ImpressoraSobrecarga/ImpressoraSobrecarga.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/ImpressoraSobrecarga/ImpressoraSobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/InterfaceIControleTV/InterfaceIControleTV.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/InterfaceIControleTV/InterfaceIControleTV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/MetodoComRetornoCalculadora/MetodoComRetornoCalculadora.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/MetodoComRetornoCalculadora/MetodoComRetornoCalculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/MetodoVazioLutador/MetodoVazioLutador.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/MetodoVazioLutador/MetodoVazioLutador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/PessoaCalculadoraIMC/PessoaCalculadoraIMC.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/PessoaCalculadoraIMC/PessoaCalculadoraIMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas - Orientação a Objetos/PolimorfismoAnimal/PolimorfismoAnimal.iml" filepath="$PROJECT_DIR$/Aulas - Orientação a Objetos/PolimorfismoAnimal/PolimorfismoAnimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/PolimorfismoVeiculo/PolimorfismoVeiculo.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/PolimorfismoVeiculo/PolimorfismoVeiculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios - Orientação a Objetos/SobrecargaTelao/SobrecargaTelao.iml" filepath="$PROJECT_DIR$/Exercicios - Orientação a Objetos/SobrecargaTelao/SobrecargaTelao.iml" />
+    </modules>
+  </component>
+</project>
